@@ -32,7 +32,7 @@ Installation
 
 1. Clone the repository
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Keef98/TransLive
    cd TransLive
    ```
 2. Create and activate virtual environment
